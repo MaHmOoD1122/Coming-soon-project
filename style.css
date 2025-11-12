@@ -172,7 +172,7 @@ a:hover .icon {
   }
   .illustration-image {
     width: 36rem;
-    margin-block: 0px 13rem;
+    margin-block: 0px 11rem;
   }
   a {
     padding: 0.7rem 0.8rem;
@@ -192,6 +192,7 @@ a:hover .icon {
   }
   .error-message {
     position: relative;
+    margin-inline-start: 0;
   }
 }
 @media (max-width: 21.875em) {
